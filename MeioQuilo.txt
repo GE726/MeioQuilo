@@ -1,1 +1,1 @@
-Projeto do controle do LPK
+Projeto do controle do LPF
